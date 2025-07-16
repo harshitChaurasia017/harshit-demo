@@ -2,6 +2,5 @@
 This is my first Git Repository.
 <br>
 Author - Harshit (First Project)
-<br>
-vijay
+
  
